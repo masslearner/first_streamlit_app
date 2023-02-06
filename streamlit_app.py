@@ -1,5 +1,4 @@
 import streamlit
-import emoji
 
 streamlit.title('My Parents New Healthy Diner')
 
